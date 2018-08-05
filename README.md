@@ -1,2 +1,2 @@
-# super-super-heroku-bot-alone
-Hi
+# super-super-heroku-bot
+Bot using heroku, 24/7!
